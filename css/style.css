@@ -1,0 +1,75 @@
+.lorem{
+    height: 150px; 
+    width: 300px; 
+    margin: auto; 
+    text-align: center; 
+    background-color: gray; 
+    color: #fff; 
+    padding-top: 6px;
+    display: none;
+    cursor: pointer;
+}
+
+.btn{
+    height: 30px; 
+    width: 300px; 
+    margin: auto; 
+    text-align: center; 
+    background-color: #000; 
+    color: #fff; 
+    padding-top: 6px;
+    cursor: pointer;
+}
+
+.btn2{
+    height: 30px; 
+    width: 300px; 
+    margin: auto; 
+    text-align: center; 
+    background-color: #000; 
+    color: #fff; 
+    padding-top: 6px;
+    cursor: pointer;
+}
+
+.lorem2{
+    height: 150px; 
+    width: 300px; 
+    margin: auto; 
+    text-align: center; 
+    background-color: gray; 
+    color: #fff; 
+    padding-top: 6px;
+    cursor: pointer;
+}
+
+.btn3{
+    height: 30px; 
+    width: 300px; 
+    margin: auto; 
+    text-align: center; 
+    background-color: #000; 
+    color: #fff; 
+    padding-top: 6px;
+    cursor: pointer;
+}
+
+.lorem3{
+    height: 150px; 
+    width: 300px; 
+    margin: auto; 
+    text-align: center; 
+    background-color: gray; 
+    color: #fff; 
+    padding-top: 6px; 
+    display: none;
+    cursor: pointer;
+}
+/* End Slide */
+/* start Animate */
+.animate{
+    height: 100px; 
+    width: 100px; 
+    background-color: red;
+}
+/* End Animate */
